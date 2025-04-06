@@ -1,6 +1,0 @@
-C:\Users\anton\Cloud-technologies-mit31\FunctionApp1\obj\Debug\net8.0\FunctionApp1.csproj.AssemblyReference.cache
-C:\Users\anton\Cloud-technologies-mit31\FunctionApp1\obj\Debug\net8.0\FunctionApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\anton\Cloud-technologies-mit31\FunctionApp1\obj\Debug\net8.0\FunctionApp1.AssemblyInfoInputs.cache
-C:\Users\anton\Cloud-technologies-mit31\FunctionApp1\obj\Debug\net8.0\FunctionApp1.AssemblyInfo.cs
-C:\Users\anton\Cloud-technologies-mit31\FunctionApp1\obj\Debug\net8.0\FunctionApp1.csproj.CoreCompileInputs.cache
-C:\Users\anton\Cloud-technologies-mit31\FunctionApp1\obj\Debug\net8.0\FunctionApp1.sourcelink.json
