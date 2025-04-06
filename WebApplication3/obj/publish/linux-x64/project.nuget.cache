@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pd8nNuaj8A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.12\\microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
