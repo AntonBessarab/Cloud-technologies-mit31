@@ -1,0 +1,19 @@
+﻿@model List<WebApplication1.Models.EntityModel>
+
+<h2>Recognized Entities</h2>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Data Source</th>
+        <th>URL</th>
+    </tr>
+    @foreach (var entity in Model)
+    {
+        <tr>
+            <td>@entity.Name</td>
+            <td>@entity.DataSource</td>
+            <td><a href="@entity.Url" target="_blank">@entity.Url</a></td>
+        </tr>
+    }
+</table>

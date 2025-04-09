@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Enter Text";
+}
+
+<h2>Enter Text</h2>
+
+@using (Html.BeginForm("Result", "Home", FormMethod.Post))
+{
+    <textarea name="inputText" rows="6" cols="60"></textarea>
+    <br />
+    <input type="submit" value="Analyze" />
+}
