@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "NER Input";
+}
+
+<h2>Named Entity Recognition</h2>
+
+<form method="post" action="/NER/Result">
+    <label for="inputText">Enter text:</label><br />
+    <textarea id="inputText" name="inputText" rows="6" cols="60"></textarea><br />
+    <input type="submit" value="Recognize Entities" />
+</form>
