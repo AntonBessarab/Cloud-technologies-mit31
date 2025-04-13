@@ -2,19 +2,19 @@
     ViewData["Title"] = "PII Detection";
 }
 
-<h2>PII (Особиста Ідентифікаційна Інформація)</h2>
+<h2>PII (Personally Identifiable Information)</h2>
 
 <form method="post">
-    <label>Введіть текст:</label><br />
+    <label>Enter text:</label><br />
     <textarea name="inputText" rows="5" cols="60"></textarea><br />
-    <input type="submit" value="Розпізнати PII" />
+    <input type="submit" value="Recognize PII" />
 </form>
 
 @if (ViewBag.OriginalText != null)
 {
-    <h3>Оригінальний текст:</h3>
+    <h3>Original text:</h3>
     <p>@ViewBag.OriginalText</p>
 
-    <h3>Текст з прихованою PII:</h3>
+    <h3>Text with hidden PII:</h3>
     <p>@ViewBag.RedactedText</p>
 }

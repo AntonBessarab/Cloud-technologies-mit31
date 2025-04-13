@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\models\\healthmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:models\\healthmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\controllers\\piicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:controllers\\piicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\health\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\health\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\pii\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\pii\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\ner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\ner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\controllers\\nercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\controllers\\piicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:controllers\\piicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\models\\namedentitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,18 +47,6 @@
       "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\health\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\health\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\pii\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\pii\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -57,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\ner\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\ner\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\views\\ner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|solutionrelative:views\\ner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3676A2CE-96E8-4BE5-94A2-1B533BA3457C}|WebApplication1.csproj|c:\\users\\anton\\cloud-technologies-mit31\\webapplication1\\models\\entitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,28 +118,127 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HealthModel.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\HealthModel.cs",
-              "RelativeDocumentMoniker": "Models\\HealthModel.cs",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\HealthModel.cs",
-              "RelativeToolTip": "Models\\HealthModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T23:04:34.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Health\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Health\\Index.cshtml",
               "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Health\\Index.cshtml",
               "RelativeToolTip": "Views\\Health\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T22:33:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\NER\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\NER\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\NER\\Index.cshtml",
+              "RelativeToolTip": "Views\\NER\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T19:46:31.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:45:08.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NERController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\NERController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NERController.cs",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\NERController.cs",
+              "RelativeToolTip": "Controllers\\NERController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:40:03.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NamedEntityModel.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\NamedEntityModel.cs",
+              "RelativeDocumentMoniker": "Models\\NamedEntityModel.cs",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\NamedEntityModel.cs",
+              "RelativeToolTip": "Models\\NamedEntityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:39:07.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:32:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PiiController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\PiiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PiiController.cs",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\PiiController.cs",
+              "RelativeToolTip": "Controllers\\PiiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:28:50.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Pii\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pii\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Pii\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pii\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T22:37:43.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T20:05:59.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T23:33:52.853Z",
               "EditorCaption": ""
             },
             {
@@ -154,22 +249,9 @@
               "RelativeDocumentMoniker": "Controllers\\HealthController.cs",
               "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\HealthController.cs",
               "RelativeToolTip": "Controllers\\HealthController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T22:29:19.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwCUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T20:05:59.214Z",
               "EditorCaption": ""
             },
             {
@@ -186,83 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\NER\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\NER\\Index.cshtml",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\NER\\Index.cshtml",
-              "RelativeToolTip": "Views\\NER\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T19:46:31.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:45:08.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NERController.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\NERController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NERController.cs",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\NERController.cs",
-              "RelativeToolTip": "Controllers\\NERController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:40:03.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NamedEntityModel.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\NamedEntityModel.cs",
-              "RelativeDocumentMoniker": "Models\\NamedEntityModel.cs",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\NamedEntityModel.cs",
-              "RelativeToolTip": "Models\\NamedEntityModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:39:07.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T23:32:44.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PiiController.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\PiiController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PiiController.cs",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Controllers\\PiiController.cs",
-              "RelativeToolTip": "Controllers\\PiiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T22:28:50.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
@@ -270,34 +276,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-09T23:09:46.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Pii\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pii\\Index.cshtml",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Pii\\Index.cshtml",
-              "RelativeToolTip": "Views\\Pii\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T22:37:43.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T23:33:52.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T23:09:46.123Z"
             },
             {
               "$type": "Document",
@@ -309,8 +288,7 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T22:39:53.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T22:39:53.759Z"
             },
             {
               "$type": "Document",
@@ -322,12 +300,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:11:36.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T19:11:36.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Result.cshtml",
               "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Views\\Home\\Result.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Result.cshtml",
@@ -339,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "EntityModel.cs",
               "DocumentMoniker": "C:\\Users\\anton\\Cloud-technologies-mit31\\WebApplication1\\Models\\EntityModel.cs",
               "RelativeDocumentMoniker": "Models\\EntityModel.cs",

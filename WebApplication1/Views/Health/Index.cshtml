@@ -1,33 +1,29 @@
-﻿@model List<HealthModel>
-
-@{
+﻿@{
     ViewData["Title"] = "Text Analytics for Health";
 }
 
-<h2>Медична інформація (Text Analytics for Health)</h2>
+<h2>Medical information (Text Analytics for Health)</h2>
 
 <form method="post">
-    <label>Введіть текст:</label><br />
+    <label>Enter text:</label><br />
     <textarea name="inputText" rows="5" cols="60"></textarea><br />
-    <input type="submit" value="Аналізувати" />
+    <input type="submit" value="Analize" />
 </form>
 
-@if (Model != null && Model.Any())
+@if (ViewBag.Entities != null)
 {
-    <h3>Медичні об'єкти:</h3>
+    <h3>Recognized Healthcare Entities</h3>
     <table border="1">
         <tr>
-            <th>Текст</th>
-            <th>Категорія</th>
-            <th>Підкатегорія</th>
-            <th>Оцінка впевненості</th>
+            <th>Text</th>
+            <th>Category</th>
+            <th>Confidence</th>
         </tr>
-        @foreach (var entity in Model)
+        @foreach (var entity in ViewBag.Entities)
         {
             <tr>
                 <td>@entity.Text</td>
                 <td>@entity.Category</td>
-                <td>@entity.SubCategory</td>
                 <td>@entity.ConfidenceScore</td>
             </tr>
         }
