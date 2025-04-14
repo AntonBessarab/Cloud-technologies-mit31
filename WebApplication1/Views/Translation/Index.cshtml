@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Translator";
+}
+
+<h2 class="mb-4">Text Translator</h2>
+
+<form method="post" asp-controller="Translation" asp-action="Index">
+    <div class="mb-3">
+        <label for="inputText" class="form-label">Enter text to translate:</label>
+        <textarea name="inputText" id="inputText" class="form-control" rows="4">@Context.Request.Query["inputText"]</textarea>
+
+    </div>
+    <div class="mb-3">
+        <label for="targetLanguage" class="form-label">Select target language:</label>
+        <select name="targetLanguage" id="targetLanguage" class="form-select">
+            <option value="en" selected>English</option>
+            <option value="uk">Ukrainian</option>
+            <option value="fr">French</option>
+            <option value="de">German</option>
+            <option value="es">Spanish</option>
+            <option value="pl">Polish</option>
+            <option value="it">Italian</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Translate</button>
+</form>
+
+@if (ViewBag.TranslatedText != null)
+{
+    <div class="mt-4 alert alert-success">
+        <strong>Translated Text:</strong><br />
+        @ViewBag.TranslatedText
+    </div>
+}
+
+@if (ViewBag.Error != null)
+{
+    <div class="mt-4 alert alert-danger">
+        <strong>Error:</strong><br />
+        @ViewBag.Error
+    </div>
+}
