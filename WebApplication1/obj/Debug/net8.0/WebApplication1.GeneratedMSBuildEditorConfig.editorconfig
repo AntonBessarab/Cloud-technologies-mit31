@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/anton/Cloud-technologies-mit31/WebApplication1/Views/Face/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/anton/Cloud-technologies-mit31/WebApplication1/Views/Health/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,12 +40,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/anton/Cloud-technologies-mit31/WebApplication1/Views/Image/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/anton/Cloud-technologies-mit31/WebApplication1/Views/NER/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkVSXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/anton/Cloud-technologies-mit31/WebApplication1/Views/NER/Result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkVSXFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anton/Cloud-technologies-mit31/WebApplication1/Views/Ocr/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/anton/Cloud-technologies-mit31/WebApplication1/Views/Pii/Index.cshtml]

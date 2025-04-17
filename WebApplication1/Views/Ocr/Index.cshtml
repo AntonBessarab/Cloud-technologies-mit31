@@ -1,0 +1,20 @@
+﻿n@{
+    ViewData["Title"] = "OCR";
+}
+<h2>Text Recognition (OCR)</h2>
+
+<form asp-action="Index" method="post" enctype="multipart/form-data">
+    <input type="file" name="image" />
+    <button type="submit">Analyze</button>
+</form>
+
+@if (ViewBag.Lines != null)
+{
+    <h3>Extracted Text:</h3>
+    <ul>
+        @foreach (var line in ViewBag.Lines)
+        {
+            <li>@line</li>
+        }
+    </ul>
+}

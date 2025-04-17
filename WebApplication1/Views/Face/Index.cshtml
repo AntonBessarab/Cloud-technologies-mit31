@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Розпізнавання облич";
+    var boxes = ViewBag.Boxes as List<Dictionary<string, int>>;
+    var count = (int)(ViewData["Count"] ?? 0);
+}
+
+<h2>Розпізнавання облич</h2>
+
+<form asp-action="Index" method="post" enctype="multipart/form-data">
+    <p>
+        <label>Завантажити зображення:</label>
+        <input type="file" name="photo" accept="image/*" />
+        <button type="submit">Аналізувати</button>
+    </p>
+</form>
+
+@if (count > 0)
+{
+    <h4>Виявлено облич: @count</h4>
+    <div style="position: relative; display: inline-block;">
+        <img src="@ViewBag.ImagePath" style="max-width: 100%;" />
+
+        @for (int i = 0; i < boxes.Count; i++)
+        {
+            var box = boxes[i];
+            <div style="
+                position: absolute;
+                border: 2px dashed #00ff00;
+                left: @box["X"]px;
+                top: @box["Y"]px;
+                width: @box["W"]px;
+                height: @box["H"]px;
+                color: white;
+                background-color: rgba(0, 255, 0, 0.3);
+                font-size: 14px;
+                text-align: center;
+                        ">
+                <span style="position: absolute; top: -20px; left: 0;">Обличчя @(i + 1)</span>
+            </div>
+        }
+    </div>
+}

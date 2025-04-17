@@ -1,4 +1,9 @@
 wwwroot\css\site.css
+wwwroot\faces\0vwr1x1w.ryd.jpg
+wwwroot\faces\fb223z4f.or2.jfif
+wwwroot\faces\s00zedyl.knh.jfif
+wwwroot\faces\t4dlfhwk.vct.jpg
+wwwroot\faces\xnzbqthp.042.jpg
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
